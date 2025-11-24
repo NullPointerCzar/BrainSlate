@@ -113,6 +113,26 @@ Troubleshooting tips
 - If you receive rate limiting errors, verify your Upstash credentials and Redis status.
 - For database connection issues, check the `MONGO_URI` value and make sure your IP is allowed (Atlas) or MongoDB is running locally.
 
+## Screenshots
+
+Below are a few screenshots from the running frontend (located in `frontend/src/assets`). If you open the repo on GitHub these will render inline.
+
+- Notes list / Home
+
+	![Notes List](frontend/src/assets/Screenshot%202025-11-24%20at%2018.41.36.png)
+
+- Create note
+
+	![Create Note](frontend/src/assets/Screenshot%202025-11-24%20at%2018.45.32.png)
+
+- Note detail
+
+	![Note Detail](frontend/src/assets/Screenshot%202025-11-24%20at%2018.48.34.png)
+
+- Rate-limited UI
+
+	![Rate Limited UI](frontend/src/assets/Screenshot%202025-11-24%20at%2018.48.50.png)
+
 ## Running the app (Production / Build)
 
 Build frontend and preview
