@@ -2,9 +2,7 @@ import React from 'react'
 import {Route, Routes} from "react-router"
 import HomePage from './pages/HomePage'
 import CreatePage from './pages/CreatePage'
-// import App from './App.jsx' 
 import NoteDetailPage from './pages/NoteDetailPage'
-import {toast} from 'react-hot-toast'
 
 const App = () => {
   return (
