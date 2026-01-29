@@ -1,4 +1,4 @@
-# BrainStack
+# BrainSlate
 
 A simple full-stack note-taking application (React + Vite frontend, Express + MongoDB backend) with an Upstash-backed rate limiter.
 
